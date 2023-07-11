@@ -1,0 +1,44 @@
+.jobseeker-navbar {
+  background-color:#2454a4;
+  padding: 2px;
+  border-bottom: 3px solid  #73767a;
+}
+
+.jobseeker-navbar__list {
+  list-style: none;
+  display: flex;
+  margin: 10px;
+  padding: 5px;
+  margin-left: 55px;
+}
+
+.jobseeker-navbar__item {
+  margin: 0 20px;
+  color: white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}
+
+.jobseeker-navbar__item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.jobseeker-navbar__item :hover {
+  color: #ebedf3;
+}
+span {
+  margin-left: 0px;
+  margin-top: 0px;
+  font-size: 30px;
+  background: -webkit-linear-gradient(rgb(0, 0, 11),#070404,rgb(0, 0, 11));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 500;
+}
+img
+{
+  width: 50px;
+  margin-left: 700px;
+}
